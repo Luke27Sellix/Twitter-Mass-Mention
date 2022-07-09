@@ -1,5 +1,5 @@
 # Twitter-Mass-Mention
-Some files are missing, you can buy the whole bot in my sellix store: https://socialhack.sellix.io 
+You can get the whole bot on my website: https://socialhack.sellix.io 
 This bot contains:
 - Mass Mention function
 - Scraping tool to get usernames
