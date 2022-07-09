@@ -17,4 +17,4 @@ Youtube: https://www.youtube.com/watch?v=9Tm6T5ZEf90&t=1s
 
 https://user-images.githubusercontent.com/109001882/178123603-fa7be592-d123-46eb-9e58-b079f09d5a77.mp4
 
-In this video I just used 3 accounts.
+In this video I just used 3 accounts.You can use unlimited accounts with this bot.
