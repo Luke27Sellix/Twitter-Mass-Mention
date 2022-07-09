@@ -14,3 +14,7 @@ Youtube: https://www.youtube.com/watch?v=9Tm6T5ZEf90&t=1s
 
 - If you have any questions about this tool, feel free to contact me.
 - TELEGRAM: LukeSellix
+
+https://user-images.githubusercontent.com/109001882/178123603-fa7be592-d123-46eb-9e58-b079f09d5a77.mp4
+
+In this video I just used 3 accounts.
